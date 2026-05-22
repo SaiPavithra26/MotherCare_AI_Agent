@@ -7,7 +7,7 @@ from models import PatientInfo, AnalysisResponse
 # GEMINI API CONFIG
 # ==========================================
 
-GEMINI_API_KEY = "AIzaSyCJb02A5fqXh1aw61Q9wtzIbyRPg-VZI34"
+GEMINI_API_KEY = "Api key"
 
 genai.configure(api_key=GEMINI_API_KEY)
 
